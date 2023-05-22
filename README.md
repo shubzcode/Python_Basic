@@ -1,6 +1,6 @@
 # python_basic
 
-1. Area_of_circle.py
+1.Area_of_circle.py
 
 3.Check_SIngle_Digit.py
 
